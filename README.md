@@ -280,7 +280,7 @@ Responda apenas com base nos documentos enviados, sem utilizar informações ext
 
 Demonstrativo em vídeo do estudo no NotebookLM:
 
-➡️https://notebook.google.com/notebook/644504b11dca4a9791b1d51de30a619b/artifact/fc2c54b1a58146fa906b642fbd6aa4b9utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+➡️[https://notebook.google.com/notebook/644504b11dca4a9791b1d51de30a619b/artifact/fc2c54b1a58146fa906b642fbd6aa4b9utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_](https://notebook.google.com/notebook/644504b1-1dca-4a97-91b1-d51de30a619b/artifact/fc2c54b1-a581-46fa-906b-642fbd6aa4b9?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
 ---
 
