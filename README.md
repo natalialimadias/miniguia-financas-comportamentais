@@ -298,6 +298,6 @@ Este projeto demonstra uma aplicação prática do NotebookLM como ferramenta de
 
 ---
 
-Desenvolvido por **Natalia Lima Dias**
+**Natalia Lima Dias**
 
 </div>
